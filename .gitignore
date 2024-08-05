@@ -1,0 +1,6 @@
+# Ignore the gitignore - duh...
+!.gitignore
+
+# Ignore all temp TF directories/files
+**.terraform*
+**.tfstate*

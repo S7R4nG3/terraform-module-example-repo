@@ -1,0 +1,1 @@
+my_deploy_string = "Just a simple string override..."

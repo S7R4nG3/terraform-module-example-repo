@@ -1,0 +1,3 @@
+data "aws_caller_identity" "current" {}
+
+# You can define the rest of your resources here...
